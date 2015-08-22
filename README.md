@@ -1,2 +1,0 @@
-# xcom
-my site
